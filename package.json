@@ -3,8 +3,8 @@
   "module": "index.ts",
   "type": "module",
 	"scripts": {
-    "1": "bun ./day-07/part-1",
-    "2": "bun ./day-07/part-2",
+    "1": "bun ./day-08/part-1",
+    "2": "bun ./day-08/part-2",
     "format": "biome format --write .",
     "lint": "biome check --apply ."
   },
